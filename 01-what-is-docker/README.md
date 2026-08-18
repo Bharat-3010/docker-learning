@@ -11,6 +11,7 @@ This helps create a more **consistent environment** across development, testing,
 ## 📌 What is Docker?
 
 ![What is Docker](images/what-is-docker.jpg)
+![Docker Infrastructure vs Hypervisor](images/docker-infra.jpg)
 
 In simple terms:
 
